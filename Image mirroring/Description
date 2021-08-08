@@ -1,0 +1,1 @@
+A small project in C++ for Image mirroring. It is implementing a C++ function which is able to load an image, flip it in different ways and save it again.
