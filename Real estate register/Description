@@ -1,0 +1,1 @@
+A small C++ project for creating a real estate register. It works with list of lands and their owners. The class has multiple methods such as Adding a new Estate, deleting it, Get an owner of an estate, Setting a new owner, counting estates owned by certain owner and listing the estates. 
