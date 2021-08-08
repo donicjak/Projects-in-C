@@ -1,0 +1,1 @@
+A MailLog project created in C++. It creates a class CMailLog which handles logs from post subsystem. It analyzes which users, to whom and when sent an email.  
